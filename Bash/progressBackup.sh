@@ -11,15 +11,15 @@
 STARTTIME=`date +%a-%D-@-%X-%z`
 LOGFILE=/var/log/backupProgress.log
 BACKUP_HOME=/root/db_backup
-REMOTE_SERVER=nyc1fs02.nypost
+REMOTE_SERVER=<remote_server>
 DBFOLDERS=/dbs/c*
 BACKUP_FILE="Progress_$(date +%a).tar.bz2"
-SERVER_IP="10.238.7.175"
+SERVER_IP="<IP>"
 SHARE_NAME="Technology\DTI_BACKUP"
 SMB_PATH="/root/domainShare"
-USER_NAME="srv_dti"
-USER_PASSWORD="B@ckup1211"
-DOMAIN="nypost"
+USER_NAME="<USER>"
+USER_PASSWORD="<PASS>"
+DOMAIN="DC"
 MOUNTED_SHARE=`df | grep "DTI_BACKUP" | awk -F/ '{print $4}'` sCM=/root/scripts/scratchFolder/cm
 sCONVCM=/root/scripts/scratchFolder/convcm
 sCMTEST1=/root/scripts/scratchFolder/cmtest1
