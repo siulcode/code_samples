@@ -1,10 +1,5 @@
 <?php
-/*
- * Copyright (c) 2007-2008 Kiwibox Media, Inc.
- * File: friends.php
- * Created: 02/22/2008 by Ivan Tumanov
- * Modified: Luis Lopez, Christian Serna
- */
+
 require_once('include.config.php');
 require_once('include.subsite.php');
 require_once('include.friends.php');

@@ -1,7 +1,5 @@
 <?php
 /*
-	Copyright (c) 2008 Kiwibox Media, Inc.
-	File: query.kiwibox.com/query/query.news.php
 	Created: 03/07/08 by Luis Lopez
 */
 class KBQuery_get_news extends KBResultsetQuery {

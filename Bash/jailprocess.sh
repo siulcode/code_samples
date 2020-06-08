@@ -1,8 +1,6 @@
 #!/bin/ksh
 ###############################################################
 # FILE: jailprocess
-# CREATED BY: B. Worth
-# REFACTORED AND MODED BY: Luis L.
 # DATE: June 1st 15
 # DESC: This script will go through each of the folders inside the jail home and process
 # 		either the ftpto or the ftpfrom functions, by encrypting, decrypting and sftp the files

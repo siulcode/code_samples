@@ -1,6 +1,5 @@
 <?php
 /*
- * Copyright (c) 2008, Kiwibox Media, Inc.
  * File: include.advice.php
  * Created: 03/04/08 by Luis Lopez
  */

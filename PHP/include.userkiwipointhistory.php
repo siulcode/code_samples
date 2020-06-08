@@ -1,6 +1,5 @@
 <?php
 /*
- * Copyright (c) 2008, Kiwibox Media, Inc.
  * File: framework/include.userkiwipointhistory.php
  * Created: 02/11/08 by Luis Lopez
  */

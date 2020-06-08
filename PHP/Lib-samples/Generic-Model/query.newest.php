@@ -1,7 +1,5 @@
 <?php
 /*
- * Copyright (c) 2008 Kiwibox Media, Inc.
- * File: query.kiwibox.com/query/polls/get/query.newest.php
  * Created: 03/19/08 by Luis Lopez
  * Extended: 03/26/2008 by Ivan Tumanov
  */
