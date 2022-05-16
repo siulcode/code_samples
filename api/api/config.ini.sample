@@ -1,0 +1,10 @@
+[mysql]
+host = 127.0.0.1
+port = 3306
+database = warlords_facts
+user = lasercat
+password = supersecurepassword
+
+[api]
+base_url = http://127.0.0.1:8181
+beamed_api = https://secret_bunker_source.io/facts

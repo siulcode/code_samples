@@ -1,0 +1,5 @@
+flask
+pandas
+mysql-connector-python
+PyMySQL
+fire
